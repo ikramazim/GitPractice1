@@ -8,4 +8,5 @@ public class Conflict {
 
     // this is the collection branch content
 //>>>>>>> collection
+    // this is the change collection2  branch does not know about
 }
