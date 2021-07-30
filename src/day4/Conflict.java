@@ -8,4 +8,5 @@ public class Conflict {
 
     // this is the collection branch content
 //>>>>>>> collection
+    // more work on collection2
 }
